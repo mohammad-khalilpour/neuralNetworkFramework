@@ -1,0 +1,2 @@
+# neuralNetworkFramework
+computational intelligence project
